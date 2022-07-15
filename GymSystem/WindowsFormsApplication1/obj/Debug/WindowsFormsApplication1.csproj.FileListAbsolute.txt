@@ -1,0 +1,17 @@
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.home.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.login.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.loginform.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.newmember.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.packages.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jungl\source\repos\GymSystem\GymSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
